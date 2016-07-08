@@ -1,15 +1,17 @@
 <!DOCTYPE html>
 <html>
-<head>
-<title>Explored This</title>
+  <head>
+  <title>Explored This</title>
+
+  <link rel="stylesheet" type="text/css" href="main.css">
 </head>
 
 <body>
-<h1>Explored This</h1>
-
-<h3> I want to be different! </h3>
-
-<p>Hello! Welcome to my site! I'm a computer science major and mathematics minor at California State University San Marcos. I'm building this site from the ground up!</p>
+  <h1>Explored This</h1>
+  
+  <h3> I want to be different! </h3>
+  
+  <p>Hello! Welcome to my site! I'm a computer science major and mathematics minor at California State University San Marcos. I'm building this site from the ground up!</p>
 </body>
 
 </html>
