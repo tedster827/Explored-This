@@ -30,3 +30,8 @@ h2 {
 	min-width: 140px;
 	flex: 1;
 }
+
+.main {
+	padding-left: 30px;
+	min-width: 75%;
+}
