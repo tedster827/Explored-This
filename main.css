@@ -32,7 +32,8 @@ h2 {
 }
 
 .nav h2 {
-	padding-left: 20px;
+	text-align: center;
+	padding-left: 0px;
 }
 
 .main {
