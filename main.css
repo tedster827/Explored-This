@@ -1,26 +1,28 @@
-html, body
-{
+html, body {
 	font-family: "Lucida Console", Monaco, monospace;
 	margin: 1;
 	width: 100%;
 	height: 100%;
 }
 
-p
-{
+p {
 	font-family: "Comic Sans MS", cursive, sans-serif;
 	margin 12;
 	width: 100%;
 	height: 100%;
 }
 
-.container
-{
+.container {
 	display: flex;
 }
 
-.nav
-{
+div {
+	padding-right: 30px;
+	height: 100%;
+	width: 100%;
+}
+
+.nav {
 	background-color: #6495ED;
 	max-width: 25%;
 	min-width: 140px;
