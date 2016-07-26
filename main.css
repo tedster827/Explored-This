@@ -31,6 +31,10 @@ h2 {
 	flex: 1;
 }
 
+.nav h2 {
+	padding-left: 20px;
+}
+
 .main {
 	padding-left: 30px;
 	min-width: 75%;
