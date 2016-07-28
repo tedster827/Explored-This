@@ -1,5 +1,7 @@
 html, body {
 	font-family: "Lucida Console", Monaco, monospace;
+	background-image: url(http://67.media.tumblr.com/9cd3695253c6f03c69e2cb422aeb
+		f515/tumblr_nr3u7idAWN1qei2wfo2_1280.jpg);
 	width: 100%;
 	height: 100%;
 }
@@ -25,7 +27,8 @@ h2 {
 }
 
 .nav {
-	background-image: url(http://66.media.tumblr.com/58c31b332e6d447253e30cf67b7c1c54/tumblr_o23jekLo981u8wonlo1_500.jpg);
+	background-image: url(http://66.media.tumblr.com/58c31b332e6d447253e30cf67b7c
+		1c54/tumblr_o23jekLo981u8wonlo1_500.jpg);
 	max-width: 25%;
 	min-width: 140px;
 	flex: 1;
