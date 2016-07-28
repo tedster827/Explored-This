@@ -39,10 +39,10 @@ h2 {
 
 .nav h2 {
 	text-align: center;
-	padding-left: 12px;
+	padding-left: 0px;
 }
 
 .main {
-	padding-left: 30px;
+	padding-left: 0px;
 	min-width: 75%;
 }
