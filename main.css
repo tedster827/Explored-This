@@ -27,8 +27,8 @@ div {
 
 h1 {
 	border: 3px solid black;
-	border-radius: 5px;
-	border-width: thin;
+	border-radius: 15px;
+	border-width: thick;
 }
 
 h2 {
