@@ -29,6 +29,7 @@ h1 {
 	border: 3px solid black;
 	border-radius: 25px;
 	border-width: thin;
+	padding: 10px;
 }
 
 h2 {
