@@ -1,0 +1,21 @@
+html, body {
+  font-family: "Lucida Console", Monaco, monospace;
+  width: 100%;
+  height: 100%;
+}
+.nav {
+  background-image: url(http://66.media.tumblr.com/58c31b332e6d447253e30cf67b7c1c54/tumblr_o23jekLo981u8wonlo1_500.jpg);
+  background-size: cover;
+  background-position: center;
+  max-width: 25%;
+  min-width: 140px;
+  flex 1;
+}
+
+.container{
+  display: flex;
+  background-image: url(https://65.media.tumblr.com/2d96f14eed81b3ffb029964267c3c180/tumblr_ob0h5kMvLc1qjl68so1_1280.jpg);
+  background-position: center;
+  background-size: auto;
+  background-repeat: no-repeat;
+}
