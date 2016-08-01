@@ -13,7 +13,7 @@ p {
 
 .container {
 	display: flex;
-	background-image: url(https://65.media.tumblr.com/2d96f14eed81b3ffb029964267c3c180/tumblr_ob0h5kMvLc1qjl68so1_1280.jpg);
+	/*background-image: url(https://65.media.tumblr.com/2d96f14eed81b3ffb029964267c3c180/tumblr_ob0h5kMvLc1qjl68so1_1280.jpg);*/
 	background-position: center;
 	background-size: auto;
 	background-repeat: no-repeat;
