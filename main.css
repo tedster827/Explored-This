@@ -45,6 +45,12 @@ h2 {
 	flex: 1;
 }
 
+/* Navagation */
+.nav li {
+	margin: 0;
+	padding: 0 10px;
+	display: inline;
+}
 .navbeta ul{
 	display: inline;
 }
