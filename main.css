@@ -5,6 +5,7 @@ html, body {
 	flex-direction: column;
 	font-weight: lighter;
 	line-height: 1.7;
+	background-image: url(https://i.imgur.com/VU4Bvo4.jpg);
 }
 
 
@@ -15,7 +16,6 @@ p {
 
 .container {
 	display: flex;
-	background-image: url(https://i.imgur.com/VU4Bvo4.jpg);
 	background-size: cover;
 	background-repeat: no-repeat;
 }
@@ -36,6 +36,10 @@ h2 {
 	text-align: center;
 }
 
+
+/* Navagation */
+
+/*This nav class was used for a nav bar that would be displayed on the left side of the page and would be listed down with bullet points.*/
 .nav {
 	background-image: url(http://66.media.tumblr.com/58c31b332e6d447253e30cf67b7c1c54/tumblr_o23jekLo981u8wonlo1_500.jpg);
 	background-size: cover;
@@ -43,15 +47,6 @@ h2 {
 	max-width: 25%;
 	min-width: 140px;
 	flex: 1;
-}
-
-/* Navagation */
-
-/*This nav class was used for a nav bar that would be displayed on the left side of the page and would be listed down with bullet points.*/
-.oldnav li {
-	margin: 0;
-	padding: 0 10px;
-	display: inline;
 }
 /*This is the currect nav class and is displayed horizontally.*/
 .navbeta li{
