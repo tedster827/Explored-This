@@ -19,7 +19,6 @@ html, body {
 	text-align: center;
 	border: 3px solid black;
 	border-width: thin;
-	padding: 10px;
 }
 
 .container {
@@ -44,6 +43,7 @@ html, body {
 	display: inline;
 	margin 0;
 	padding 0 10px;
+	background-color: #FFF;
 }
 
 
