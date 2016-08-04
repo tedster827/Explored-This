@@ -44,9 +44,11 @@ html, body {
 .navbeta li{
 	display: inline;
 	margin 0;
-	background-color: #FFF;
 }
 
+.current-city {
+	padding-right: 50px;
+}
 
 .main {
 	min-width: 75%;
