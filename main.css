@@ -9,9 +9,17 @@ html, body {
 }
 
 
-p {
+.site-description {
+	text-align: center;
 	max-width: 65%;
 	min-height: 500px;
+}
+
+.page-title {
+	text-align: center;
+	border: 3px solid black;
+	border-width: thin;
+	padding: 10px;
 }
 
 .container {
@@ -20,27 +28,10 @@ p {
 	background-repeat: no-repeat;
 }
 
-div {
-	padding-right: 30px;
-	height: 100%;
-	width: 100%;
-}
-
-h1 {
-	border: 3px solid black;
-	border-width: thin;
-	padding: 10px;
-}
-
-h2 {
-	text-align: center;
-}
-
-
 /* Navagation */
 
 /*This nav class was used for a nav bar that would be displayed on the left side of the page and would be listed down with bullet points.*/
-.nav {
+.oldnav {
 	background-image: url(http://66.media.tumblr.com/58c31b332e6d447253e30cf67b7c1c54/tumblr_o23jekLo981u8wonlo1_500.jpg);
 	background-size: cover;
 	background-position: center;
@@ -55,10 +46,6 @@ h2 {
 	padding 0 10px;
 }
 
-.nav h2 {
-	text-align: center;
-	padding-left: 12px;
-}
 
 .main {
 	padding-left: 60px;
