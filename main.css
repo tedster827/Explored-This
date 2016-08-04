@@ -43,7 +43,6 @@ html, body {
 /*This is the currect nav class and is displayed horizontally.*/
 .navbeta li{
 	display: inline;
-	margin 0;
 }
 
 .current-city {
