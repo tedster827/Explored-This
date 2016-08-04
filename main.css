@@ -47,12 +47,15 @@ h2 {
 }
 
 /* Navagation */
-.nav li {
+
+/*This nav class was used for a nav bar that would be displayed on the left side of the page and would be listed down with bullet points.*/
+.oldnav li {
 	margin: 0;
 	padding: 0 10px;
 	display: inline;
 }
-.navbeta ul li{
+/*This is the currect nav class and is displayed horizontally.*/
+.navbeta li{
 	display: inline;
 	margin 0;
 	padding 0 10px;
