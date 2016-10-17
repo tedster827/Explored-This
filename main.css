@@ -8,6 +8,10 @@ html, body {
 	background-image: url(https://i.imgur.com/VU4Bvo4.jpg);
 }
 
+.github-link {
+	text-align: center;
+	font-size: 25px;
+}
 
 .site-description {
 	text-align: center;
