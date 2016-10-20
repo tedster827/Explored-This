@@ -27,6 +27,11 @@ html, body {
 	border-width: thin;
 }
 
+.page-subtitle {
+	font-size: 35px;
+	text-align: center;
+}
+
 .container {
 	display: flex;
 	background-size: cover;
