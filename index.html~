@@ -1,17 +1,31 @@
 <!DOCTYPE html>
 <html>
   <head>
-  <title>Explored This</title>
+    <title> Explored This </title>
+    <link rel="shortcut icon" type="image/x-icon" href="/1476926916.ico">
+    <link rel="stylesheet" type="text/css" href="main.css">
+  </head>
 
-  <link rel="stylesheet" type="text/css" href="main.css">
-</head>
+  <body>
+    <div class="container" style="color:white">
 
-<body>
-  <h1>Explored This</h1>
-  
-<!--  <h3> I want to be different! </h3> -->
-  
-  <p>Hello! Welcome to my site! I'm a computer science major and mathematics minor at California State University San Marcos. I'm building this site from the ground up!</p>
-</body>
+      <div class="main">
 
-</html>
+        <div class="page-title"> Explored This - Adventure Site</div>
+        <div class="page-subtitle"> <a target="_blank" href="https://github.com/tedster827"><li> GitHub [Link]</li></a></div>
+          <div class="navbeta">
+            <ul>
+              <div class="current-city">Current City: El Cajon, California.</div>
+              <a href="index.html"><li>>Home<</li></a>
+              <a href="aboutme.html"><li>About Me</li></a>
+              <a href="wib.html"><li>Where I've Been</li></a>
+            </ul>
+          </div>
+          <div class="page-description">Welcome to my site! I'm a computer science major and mathematics minor at California State University San Marcos. I'm also a bit of an adventurer, so this site will be full of my travels! I could use the practice and I want to show people what I can do, so I'm building this site from the ground up! (Or rather html/css to your eyes!)
+          </div>
+        </div>
+
+      </div>
+    </body>
+
+  </html>
